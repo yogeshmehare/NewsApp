@@ -1,0 +1,13 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+img.NewsImage{
+    max-height: 200px;;
+    max-width: 300px;
+}
+
+div.divMarginToImage{
+    text-align: center;
+}
